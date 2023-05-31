@@ -1,6 +1,5 @@
-# pidgin-ov
+# Knowledge Distillation For Arabic
 
-This project is an adaptation for orthographic variation in Pidgin.
 
 ## Installation
 
