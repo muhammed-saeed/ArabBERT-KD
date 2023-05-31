@@ -20,10 +20,11 @@ we have cloned the transformer library and then modified the library to work wit
 
 The orignal transformers library link  
 
-`https://github.com/huggingface/transformers`
+`https://github.com/huggingface/transformers` 
+
+but the `distillation` folder has been modified to work with the arabic models
 
 ```
-unzip transformers.zip -d transformers
 cd transformes
 pip install .
 pip install -r transformers/examples/research_projects/distillation/requirements.txt
