@@ -1,4 +1,4 @@
-# Knowledge Distillation For Arabic
+# Knowledge Distillation of BERT Language Model on the Arabic Language
 
 
 ## Installation
